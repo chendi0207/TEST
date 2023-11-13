@@ -1,1 +1,4 @@
-sdfsdf211
+{"urls":[
+{"name":"ABC","url":"https://gh-proxy.com"},
+{"name":"ABCD","url":"https://gh-proxy.com"},
+{"name":"ABC","url":"https://gh-proxy2.com"}]}
