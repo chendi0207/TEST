@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - TEST/1.txt
+      - 1.txt
 
 jobs:
   remove_duplicates:
