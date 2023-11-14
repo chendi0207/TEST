@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "name": "ABC1aa311111111111111111111111111aa2E",
+      "name": "ABC1aa311111111111aa2E",
       "url": "https://gh-proxy.com"
     },
     {
