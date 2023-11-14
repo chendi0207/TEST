@@ -22,8 +22,8 @@ jobs:
           node remove_duplicates.js 1.txt 2.txt
       - name: Set git default identity
         run: |
-          git config --global user.email "11bin@163.com"
-          git config --global user.name "bineran"
+          git config --global user.email "501228112@qq.com"
+          git config --global user.name "chendi0207"
       - name: Move file to master branch
         run: |
           git checkout master
