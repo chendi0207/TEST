@@ -20,3 +20,7 @@ jobs:
           # 在这个步骤中，你可以使用适当的命令或脚本来执行去重操作
           # 假设使用一个名为"remove_duplicates.js"的JavaScript脚本来去重URL
           node remove_duplicates.js 1.txt 2.txt
+      - name: Move file
+        run: |
+          # 在这个步骤中，你可以使用适当的命令或脚本来移动文件
+          mv 2.txt TEST/2.txt
