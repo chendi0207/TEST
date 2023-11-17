@@ -1125,9 +1125,7 @@
 {"url":"http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json","name":"阿里专线"},
 {"url":"http://www.lyyytv.cn/yt/yt.json","name":"影探"},
 {"url":"https://jm.dovxi.repl.co/api?url=https://weixine.net/ysc.json","name":"运输车"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://smr.xzam.cn:66/tv","name":"小胡"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://www.tlam.cn/API/api","name":"小透明"},
-{"url":"http://calendre.top/TVBox/YXHC.json","name":"夕✿晨"},
+
 {"url":"https://codeberg.org/hengxing/hx/raw/branch/main/1031hxzx.txt","name":"恒星"},
 {
       "name": "运输车VIP",
@@ -1144,58 +1142,29 @@
 {"url":"https://jm.dovxi.repl.co/api?url=https://agit.ai/n/b/raw/branch/a/b/c.json","name":"abc"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"巧技"},
 {"url":"https://agit.ai/cyl518/yl/raw/branch/master/ml.json","name":"胖鸭"},
-{"url":"https://agit.ai/cyl518/yl/raw/branch/master/pytv.json","name":"胖鸭2"},
+
 {"url":"https://jm.dovxi.repl.co/api?url=http://rihou.vip:88/荷城茶秀","name":"荷城茶秀"},
 {"url":"https://s2.pub/cally","name":"茶秀"},
 {"url":"https://pastebin.com/raw/5NHaxyGR","name":"道长js"},
 {"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json","name":"南风"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://pan.shangui.cc/f/v2Lsk/yyfx.json","name":"业余打发"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://www.bestpvp.site/关注码上放生/时光机","name":"码上放生"},
+
+
 {"url":"https://agit.ai/ddx/nmys/raw/branch/master/feimao.json","name":"猫记"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://tvbox.lltv8.top","name":"猎狼"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://369936.xyz/web119","name":"春风"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://gg.gg/liugongzi","name":"刘公子"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://miaotvs.cn/meow","name":"喵影视"},
+
+
+
+
 {"url":"https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8","name":"不良帅"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://agit.ai/guot54/ygbh/raw/branch/master/pro","name":"宝盒"},
 {"url":"https://jm.dovxi.repl.co/api?url=http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌","name":"欧歌"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://home.jundie.top:81/top98.json","name":"俊宇"},
+
 {"url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt","name":"精选"},
 {"url":"https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8","name":"分享者"},
 {"url":"https://jm.dovxi.repl.co/api?url=http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"月光宝盒"},
 {"url":"https://download.kstore.space/download/2863/01.txt","name":"潇洒线路"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name":"潇洒"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api2.json","name":"潇洒去广"},
-{"url":"https://la.kstore.space/download/2883/0110.txt","name":"蚂蚁论坛"},
-{"url":"https://gh-proxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json","name":"霜辉月明py"},
-{"url":"https://agit.ai/kvymin/TV/raw/branch/master/Box.json","name":"kvymin"},
+
 {"url":"https://jm.dovxi.repl.co/api?url=https://wds.ecsxs.com/230989.json","name":"春盈天下"},
-{"url":"https://download.kstore.space/download/4933/pp%E8%87%AA%E7%94%A8.json","name":"pp自用"},
+
 {"url":"https://framagit.org/tiantuhao/honor/-/raw/master/tian.json","name":"田什么"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云 No.1"},
-{"url":"https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json","name":"高天流云 PG"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json","name":"高天流云 FTY"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json","name":"高天流云 FM"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json","name":"高天流云 XYBQ"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json","name":"高天流云 XYQ"},
-{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json","name":"高天流云 js"},
-{"url":"https://qu.ax/ZDUu.json","name":"田什么3"},
-{"url":"https://agit.ai/ccy/v/raw/branch/master/v","name":"V什么"},
-{"url":"https://fastly.jsdelivr.net/gh/yw88075/tvbox@main/XYQTVBox/XYQTVBox.json","name":"香雅情"},
-{"url":"https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json","name":"蜂蜜"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://蜂蜜.eu.org","name":"蜂蜜eu"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://xhdwc.tk/0","name":"蜂蜜0"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://www.0701.gq/tv","name":"蜂蜜1"},
-{"url":"https://jm.dovxi.repl.co/api?url=http://yingshi.fongmi.eu.org","name":"蜂蜜org"},
-{"url":"https://jm.dovxi.repl.co/api?url=https://lengniuge.link/yingshi","name":"蜂蜜冷牛哥"},
-{"url":"http://101.34.67.237/config/1","name":"小雅1"},
-{"url":"http://101.34.67.237/config/2","name":"小雅2"},
-{"url":"http://101.34.67.237/config/3","name":"小雅3"},
-{"url":"https://tv.lan2wan.top/candymuj.json","name":"candymuj"},
-{"url":"http://52bsj.vip:81/api/v3/file/get/167946/%E5%B0%8F%E6%AD%A6%E5%93%A5831%E6%8E%A5%E5%8F%A3.json?sign=CX10n5R-2N-ozJUGU822z7KMHL9iN8Hy5Jx6diOklrk%3D%3A0","name":"小武哥831接口"},
-{"url":"https://gh-proxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json","name":"♻️FongMi♻️"},
-{"url":"https://gh-proxy.com/raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json","name":"♻️sathew♻️"},
-{"url":"http://sc.lltv8.top","name":"♻️猎狼专用♻️"},
-{"url":"https://agit.ai/guot54/ygbh/raw/branch/master/prox.json","name":"♻️guot54♻️"}
+{"url":"https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json","name":"高天流云 No.1"}
 ]
 }
