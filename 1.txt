@@ -1115,7 +1115,6 @@
 
 {"url":"https://pan.shangui.cc/f/8Qybfo/ssjyz.txt","name":"pan.shangui.cc"},
 {"url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name":"tongyong"},
-{"url":"http://xxxoo.shop/","name":"xxxoo.shop"},
 
 {"url":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json","name":"4k视界"},
 {"url":"https://jihulab.com/moyuer/jk/-/raw/main/moyu.json","name":"摸鱼4k"},
