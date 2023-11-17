@@ -777,20 +777,12 @@
       "name": "短剧接口"
     },
     {
-      "url": "http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json",
-      "name": "xhww.fun"
-    },
-    {
       "url": "https://pan.shangui.cc/f/8Qybfo/ssjyz.txt",
       "name": "pan.shangui.cc"
     },
     {
       "url": "http://xxxoo.shop/",
       "name": "xxxoo.shop"
-    },
-    {
-      "url": "https://s2.pub/pdzyjm",
-      "name": "s2.pub"
     },
     {
       "url": "http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json",
