@@ -1112,11 +1112,11 @@
 {"url":"http://ftp6590005.host131.sanfengyun.cn/free/api.json","name":"青木接口"},
 {"url":"https://agit.ai/hu/hcr/raw/branch/master/%E7%9F%AD%E5%89%A7.json","name":"短剧接口"},
 {"url":"http://cdn.qiaoji8.com/tvbox.json","name":"qiaoji8"},
-{"url":"http://xhww.fun:63/%E5%B0%8F%E7%B1%B3/DEMO.json","name":"xhww.fun"},
+
 {"url":"https://pan.shangui.cc/f/8Qybfo/ssjyz.txt","name":"pan.shangui.cc"},
 {"url":"https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json","name":"tongyong"},
 {"url":"http://xxxoo.shop/","name":"xxxoo.shop"},
-{"url":"https://s2.pub/pdzyjm","name":"s2.pub"},
+
 {"url":"https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json","name":"4k视界"},
 {"url":"https://jihulab.com/moyuer/jk/-/raw/main/moyu.json","name":"摸鱼4k"},
 {"url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json","name":"T4荐片"},
