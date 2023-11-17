@@ -781,10 +781,6 @@
       "name": "pan.shangui.cc"
     },
     {
-      "url": "http://xxxoo.shop/",
-      "name": "xxxoo.shop"
-    },
-    {
       "url": "http://qrh.yimkj.cn/al/%E9%98%BF%E9%87%8C.json",
       "name": "阿里专线"
     },
