@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "http://cwb0207.tpddns.cn:1314/fty/fty.json",
-      "name": "💕华为"
-    },
-    {
       "name": "🐼肥猫宝贝👙",
       "url": "http://xn--z7x900a.com/"
     },
